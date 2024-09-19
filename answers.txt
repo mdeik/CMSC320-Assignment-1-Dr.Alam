@@ -7,3 +7,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to Sociology. It can be used to interpret census data to better utilize and understand the results.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the history of both branches. Rebasing combines the branches into one by writing each commit onto the target branch, unifying them. 
