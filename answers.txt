@@ -10,3 +10,7 @@ Answer: Data science can be applied to Sociology. It can be used to interpret ce
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging preserves the history of both branches. Rebasing combines the branches into one by writing each commit onto the target branch, unifying them. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to learn how to read and interpret datasets in Python.
