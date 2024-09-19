@@ -1,3 +1,9 @@
+
 Q1: Why might be consider using git?
 
 Answer: Git can be used to track changes in code. Because of this, it can be used to rollback code if something breaks to help diagnose the problem.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to Sociology. It can be used to interpret census data to better utilize and understand the results.
+
